@@ -1,0 +1,21 @@
+body{
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_tkaGDDIwSrE5E6qXRUp-zMOTjiDWbVr4A&usqp=CAU);
+background-size: 99%;
+color:black;
+ font-family: Andale Mono, monospace;
+ font-weight:600;
+ font-size:large;
+ font-stretch: ultra-expanded}
+h1{color:black;text-align:center;font-weight:900}
+hr {
+    border: none;
+    background-color: red;
+    color: white;
+    height: 3px;
+   }
+   summary{text-decoration:underline;color:bidi-override}
+   div{text-align:left};
+   
+   
+
+
